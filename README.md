@@ -140,7 +140,7 @@ Serving the folder over HTTP allows the browser to load the pages and static res
 - Required both student fields and a non-empty cart before confirmation; successful confirmation displays an Order ID and clears saved cart data.
 - Retained the existing checkout display and calculation of 5% GST; no additional tax rule was introduced.
 
-Open `Project_Report.docx` to view the detailed implementation changes and their outcomes.
+View [CORRECTION_REPORT.md](CORRECTION_REPORT.md) or open [Project_Report.docx](Project_Report.docx) for the detailed implementation changes and their outcomes.
 
 ### 9. Testing Summary
 
