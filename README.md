@@ -1,6 +1,6 @@
 ## SECTION 1: STUDENT DETAILS
 
-- **Student Name:** T G Sravan TEja
+- **Student Name:** T G Sravan Teja
 - **Roll Number:** 2612FB04042
 - **Course:** Ist M.Tech – CSE
 
